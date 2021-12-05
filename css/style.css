@@ -118,8 +118,7 @@ li{
     background-repeat: no-repeat;
     height: 80vh;
     
-    background: linear-gradient(to left, rgba(245, 246, 252, 0.37), rgba(8, 8, 8, 0.561)),
-    url('../images/download\ \(1\).jpg');
+    background: url('../images/download\ \(1\).jpg');
     background-position: center;
     /* position: relative; */
 }
